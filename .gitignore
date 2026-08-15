@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Database files (regenerated via ingest script)
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db

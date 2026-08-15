@@ -1,0 +1,5 @@
+SQLite is a fast, serverless, self-contained SQL database engine. Unlike traditional database management systems like PostgreSQL or MySQL, SQLite stores its entire database, including tables, indexes, and data, inside a single file on disk.
+
+Because SQLite requires zero installation or background server processes, it is widely deployed across mobile devices, desktop applications, and embedded platforms. It provides full ACID transaction compliance, making it remarkably reliable.
+
+In local RAG applications, SQLite serves as an ideal lightweight store for persisting document text passages along with their serialized vector embedding arrays. This enables fast semantic similarity lookup across local knowledge bases without external dependencies.

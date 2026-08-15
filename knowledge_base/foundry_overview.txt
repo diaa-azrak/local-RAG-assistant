@@ -1,0 +1,5 @@
+Microsoft Foundry Local is an end-to-end local AI solution that provides a lightweight runtime and SDK for running large language models completely on a user's device. It features a curated catalog of optimized open-weight models.
+
+One of the key advantages of Foundry Local is that no cloud account, API keys, or active internet connection are required. Foundry Local automatically downloads and manages models, selecting the optimal hardware acceleration providers across CPU, GPU, or NPU on Windows, macOS, and Linux.
+
+By executing model inference locally on-device, applications can deliver zero-network-latency responses while guaranteeing complete data privacy and confidentiality. Local RAG architectures leverage Foundry Local to combine semantic document search with offline generative capabilities.
